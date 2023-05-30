@@ -1,0 +1,11 @@
+Starting up:
+  1.Prepare SSD.
+    1.1.(Windows) 
+        1.1.1. Enter "CMD" as (Administrator).
+        1.1.2. Type "diskpart".
+        1.1.3. Type "list disk".
+        1.1.4. Select Mac SSD for cleaning.
+        1.1.5. Type "clean".
+        1.1.6. Unmount SSD and physically install in Mac.
+  2.Prepare for installing Operating Systems in Mac.
+  
